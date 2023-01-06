@@ -1,7 +1,7 @@
 
 # @PrinceKumar
 
-Hello 👋 My name is Prince and I am an Software Develop at [@Onemind-Services-LLC](https://github.com/Onemind-Services-LLC)/[@GitHub](https://github.com/github/).
+Hello 👋 My name is Prince and I'm a Software Develop at [@Onemind-Services-LLC](https://github.com/Onemind-Services-LLC)/[@GitHub](https://github.com/github/).
 
 ## Where to find me 📍
 
